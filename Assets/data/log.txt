@@ -1,0 +1,16 @@
+End of test @ 12/8/2016 12:17:13 PM
+Test @ 12/8/2016 12:17:15 PM
+TableL: 1.357736
+End of test @ 12/8/2016 12:25:21 PM
+End of test @ 12/8/2016 12:28:10 PM
+Test @ 12/8/2016 12:28:11 PM
+TableC: 56.24072
+TableR: 263.9899
+TableL: 156.3221
+TableL: 1186.223
+End of test @ 12/8/2016 1:24:03 PM
+End of test @ 12/8/2016 1:28:34 PM
+Test @ 12/8/2016 1:28:41 PM
+TableC: 36.79309
+TableL: 898.9944
+TableR: 228.9146
